@@ -46,6 +46,7 @@ intelligence services using innovative machine learning techniques. The main top
 We invite the submission of original research results and industry-level applications related to the focus areas of the workshop, in one of two categories given below. All submissions are requested through EasyChair.
 
 1) Short papers (maximum 5 pages LNCS style) presenting proposed research directions, novel ideas, use-case scenarios, established results or more general positions or discussions.
+
 2) Vision papers (maximum 4 pages ) presenting important directions for future research on GeoKGs. Such papers should identify key problem areas for GeoKGs, and propose potential solutions or strategies that could be developed to address such problems. Ideally the papers should highlight open research questions for GeoKGs, and should stimulate future research.
 
 Submissions should be sent to  geokg.kgc22@gmail.com
