@@ -9,8 +9,9 @@ title: GeoKG@KGC2022
 
 
 We invite submissions to the First Workshop on Geospatial Knowledge Graphs (GeoKG2022) to be held in conjunction with the 
-The Knowledge Graph Conference 2022 (KGC2022) that will take place at Cornell Tech campus, New York, and globally online, 
-from May 2 to 6, 2022. GeoKG2022 is a half-day workshop consisting of two parts: paper presentations, and an interactive breakout discussion session.
+<a href="https://www.knowledgegraph.tech/">The Knowledge Graph Conference 2022 (KGC2022)</a> that will take place at Cornell Tech campus, New York, 
+and globally online, from May 2 to 6, 2022. GeoKG2022 is a half-day workshop consisting of two parts: paper presentations, and an interactive breakout
+discussion session.
 
 The workshop aims to bring together disparate elements of the environmental and geospatial community and provide a setting to discourse about
 large-scale knowledge graphs for geospatial and environmental data integration and intelligence, state-of-the-art, spatiotemporally-explicit machine
@@ -63,12 +64,11 @@ Important Dates
 Workshop Chairs
 ---
 <ul>
-  <li>Shirly Stephen, University of California, Santa Barbara, USA</li>
-  <li>Lu Zhou, Tigergraph, Inc., USA</li>
-  <li>Rui Zhu, University of California, Santa Barbara, USA</li>
-  <li>Cogan Shimizu, Kansas State University, USA</li>
+  <li><a href="https://www.linkedin.com/in/shirly-stephen-84531623">Shirly Stephen</a>, University of California, Santa Barbara, USA</li>
+  <li><a href="https://www.linkedin.com/in/lu-zhou-6aabaa94">Lu Zhou</a>, Tigergraph, Inc., USA</li>
+  <li><a href="https://www.linkedin.com/in/rui-zhu-55250374">Rui Zhu</a>, University of California, Santa Barbara, USA</li>
+  <li><a href="https://www.linkedin.com/in/coganshimizu">Cogan Shimizu</a>, Kansas State University, USA</li>
 </ul>  
-
 
 
  
