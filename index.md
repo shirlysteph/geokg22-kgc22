@@ -2,8 +2,8 @@
 title: GeoKG@KGC2022
 ---
 
-# GeoKG@KGC2022 - First Workshop on Geospatial Knowledge Graphs
-### co-located with The Knowledge Graph Conference 2022 (KGC2022) at Cornell Tech campus, New York, and globally online, from May 2 to 6, 2022
+# First Workshop on Geospatial Knowledge Graphs
+### co-located with The Knowledge Graph Conference 2022 at Cornell Tech campus, New York, and globally online, from May 2 - 6, 2022
 
 ## Call for papers
 
