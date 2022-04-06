@@ -58,25 +58,17 @@ Camera-ready version submissions: April 22, 2022
 Workshop will be held on May 3rd between 9 AM -12PM  
 
 
-GeoKG2022@KGC2022 Chairs
+Workshop Chairs
 ---
-– Shirly Stephen, University of California, Santa Barbara, USA
-– Lu Zhou, Tigergraph, Inc., USA
-– Rui Zhu, University of California, Santa Barbara, USA
-– Cogan Shimizu, Kansas State University, USA
+<ul>
+  <li>Shirly Stephen, University of California, Santa Barbara, USA</li>
+  <li>Lu Zhou, Tigergraph, Inc., USA</li>
+  <li>Rui Zhu, University of California, Santa Barbara, USA</li>
+  <li>Cogan Shimizu, Kansas State University, USA</li>
+</ul>  
 
 
-<div class="toc" markdown="1">
 
-
-## Contents:
-
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
-
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
