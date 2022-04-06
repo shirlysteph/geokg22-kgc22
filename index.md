@@ -52,10 +52,12 @@ Submissions should be sent to  geokg.kgc22@gmail.com
 Important Dates
 ---
 
-Papers submissions: April 12, 2022
-Papers notifications: April 16, 2022
-Camera-ready version submissions: April 22, 2022
-Workshop will be held on May 3rd between 9 AM -12PM  
+<ul>
+  <li>Papers submissions: April 12, 2022</li>
+  <li>Papers notifications: April 16, 2022</li>
+  <li>Camera-ready version submissions: April 22, 2022</li>
+  <li>Workshop will be held on May 3rd between 9 AM -12PM </li>
+</ul>  
 
 
 Workshop Chairs
