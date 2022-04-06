@@ -2,7 +2,10 @@
 title: GeoKG@KGC2022
 ---
 
-# Call for Papers
+# GeoKG@KGC2022 - First Workshop on Geospatial Knowledge Graphs
+### co-located with The Knowledge Graph Conference 2022 (KGC2022) at Cornell Tech campus, New York, and globally online, from May 2 to 6, 2022
+
+## Call for papers
 
 
 We invite submissions to the First Workshop on Geospatial Knowledge Graphs (GeoKG2022) to be held in conjunction with the 
@@ -15,7 +18,7 @@ learning methods, tools, and their potential as well as limitations on addressin
 discussion on frameworks for leveraging spatial and temporal knowledge as the nexus to integrate environmental data of various themes within geospatial
 knowledge graphs.
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+
 ## Topics:
 We particularly welcome contributions on topics related to environmental data integration using knowledge graphs and geospatial 
 intelligence services using innovative machine learning techniques. The main topics of interest are:
