@@ -46,23 +46,23 @@ intelligence services using innovative machine learning techniques. The main top
 <b>Note:</b> All times are in EST (UTC -5).
 <table>
   <tr>
-    <td>9:00 am - 9:15 am</td>
+    <td>9:00 - 9:15</td>
     <td>Welcome note and opening introduction</td>
     <td>Organizing Committee</td>
   </tr>
   <tr>
-    <td>9:15 am - 10:15 am</td>
+    <td>9:15 - 10:15</td>
     <td>Keynote address - <i>Knowledge Graph Construction and Application in GeoSciences - An Illustration with the Deep-Time Knowledge Graph</i>></td>
     <td>Dr. Marshall (Xiaogang) Ma
 	- (<i>University of Idaho</i>)</td>
   </tr>
   <tr>
-    <td>10:15 am - 10:30 am</td>
-    <td colspan="2"><i>Break</i>
+    <td>10:15 - 10:30</td>
+    <td colspan="2" align="center"><i>Break</i>
     </td>
   </tr>
   <tr>
-    <td>10:30 am - 10:45 am</td>
+    <td>10:30 - 10:45</td>
     <td>Stratigraphic Knowledge Graph (StratKG) - Construction and Spatio-Temporal analysis based on Multi-source Data</td>
     <td>Wenjia Li</td>
   </tr>
@@ -72,23 +72,23 @@ intelligence services using innovative machine learning techniques. The main top
     <td>Yuanyuan Tian</td>
   </tr>
   <tr>
-    <td>11:00 am - 11:15 am</td>
+    <td>11:00 - 11:15</td>
     <td>Geospatial Knowledge Graph Development - For the National Map of the U.S. Geological Survey</td>
     <td>Dalia Varanka</td>
   </tr>
    <tr>
-    <td>11:15 am - 11:30 am</td>
+    <td>11:15 - 11:30</td>
     <td>WorldKG - A World Scale Geographic Knowledge Graph</td>
     <td>Alishiba Dsouza</td>
   </tr>
    <tr>
-    <td>11:30 am - 11:45 am</td>
+    <td>11:30 - 11:45</td>
     <td>Modeling Sustainability - A Spatial Approach to Facilitate Interdisciplinary Knowledge Representation</td>
     <td>Ellie Young</td>
   </tr>
    <tr>
-    <td>11:45 am - 12:00 pm</td>
-    <td colspan="2"><i>Discussion and closing remarks</i></td>
+    <td>11:45 - 12:00</td>
+    <td colspan="2" align="center"><i>Discussion and closing remarks</i></td>
   </tr>
 </table>
 
