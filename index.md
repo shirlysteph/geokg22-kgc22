@@ -41,6 +41,7 @@ intelligence services using innovative machine learning techniques. The main top
     - Real-world use cases of GeoKGs
     - Applications of Geospatial Knowledge Graphs (e.g. knowledge graphs in environmental data integration and AI systems)
 
+## Program:
 
 ## Submissions:
 We invite the submission of original research results and industry-level applications related to the focus areas of the workshop, in one of two categories given below. All submissions are requested through EasyChair.
