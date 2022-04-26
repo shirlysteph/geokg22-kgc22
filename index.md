@@ -43,6 +43,45 @@ intelligence services using innovative machine learning techniques. The main top
 
 ## Program:
 
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>9:00 am - 9:15 am</td>
+    <td>Welcome note and opening introduction</td>
+    <td>Organizing Committee</td>
+  </tr>
+  <tr>
+    <td>9:15 am - 10:15 am</td>
+    <td>Keynote address - Knowledge Graph Construction and Application in GeoSciences - An Illustration with the Deep-Time Knowledge Graph</td>
+    <td>Dr. Marshall (Xiaogang) Ma
+	- (University of Idaho)</td>
+  </tr>
+  <tr>
+    <td>10:15 am - 10:30 am</td>
+    <td>Break</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
+
 ## Submissions:
 We invite the submission of original research results and industry-level applications related to the focus areas of the workshop, in one of two categories given below. All submissions are requested through EasyChair.
 
