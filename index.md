@@ -68,7 +68,7 @@ All times are in EST (UTC -5).
     <td>Wenjia Li</td>
   </tr>
   <tr>
-    <td>10:45 am - 11:00 am</td>
+    <td>10:45 - 11:00</td>
     <td>A Knowledge Graph of Experts with Spatiotemporal Information</td>
     <td>Yuanyuan Tian</td>
   </tr>
