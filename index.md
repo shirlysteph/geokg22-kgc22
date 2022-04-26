@@ -45,11 +45,6 @@ intelligence services using innovative machine learning techniques. The main top
 
 <b>Note:</b> All times are in EST (UTC -5).
 <table>
- <!--  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr> -->
   <tr>
     <td>9:00 am - 9:15 am</td>
     <td>Welcome note and opening introduction</td>
@@ -96,6 +91,8 @@ intelligence services using innovative machine learning techniques. The main top
     <td colspan="2"><i>Discussion and closing remarks</i></td>
   </tr>
 </table>
+
+
 
 ## Submissions:
 We invite the submission of original research results and industry-level applications related to the focus areas of the workshop, in one of two categories given below. All submissions are requested through EasyChair.
