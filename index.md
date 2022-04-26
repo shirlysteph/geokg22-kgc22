@@ -43,7 +43,7 @@ intelligence services using innovative machine learning techniques. The main top
 
 ## Program:
 
-<b>Note:</b> All times are in EST (UTC -5). </b>
+All times are in EST (UTC -5).
 
 <table>
   <tr>
