@@ -41,7 +41,7 @@ intelligence services using innovative machine learning techniques. The main top
     - Real-world use cases of GeoKGs
     - Applications of Geospatial Knowledge Graphs (e.g. knowledge graphs in environmental data integration and AI systems)
 
-## Program:
+## Program schedule:
 
 All times are in EST (UTC -5).
 
