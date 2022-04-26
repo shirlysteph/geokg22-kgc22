@@ -61,3 +61,18 @@ $on-laptop:        800px !default;
   "custom"
 ;
 
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  font-size: 12px;
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+  font-size: 12px;
+}
